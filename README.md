@@ -22,7 +22,7 @@ False negative = 49 values
 Length of fraudulent transactions = 492,
 Length of non-fraudulent transactions = 284315
 # NOTE :
-The above results are on the basis of specific given data set to the model.
+The result and accuracy comes in this model are on the basis of specific data set given to the model.
 
 # Important libraries 
 numpy as np,
