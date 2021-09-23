@@ -14,6 +14,7 @@ Automated Encoder, Credit Card
 
 # Confusion Matrix 
 Confusion matrix which shows fraudulent and non-fraudulent transactions.
+
 True positive = 101 values
 
 True negative = 99491 values
