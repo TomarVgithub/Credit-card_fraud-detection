@@ -12,6 +12,16 @@ clustering methods. The proposed NN fraud detection method works with 99.87% acc
 Unattended Reading, Unwanted Detection, Fraud Detection, 
 Automated Encoder, Credit Card
 
+# Note :
+The result and accuracy comes in this project are on the basis of specific small data set given to the model. 
+
+# Important libraries 
+numpy as np
+
+pandas as pd
+
+seaborn as sns
+
 # Tools & Technology 
 
 Jupyter Notebook in Anaconda3 
@@ -33,16 +43,6 @@ False negative = 49 values
 Length of fraudulent transactions = 492
 
 Length of non-fraudulent transactions = 284315
-# Note :
-The result and accuracy comes in this project are on the basis of specific small data set given to the model. 
-
-# Important libraries 
-numpy as np
-
-pandas as pd
-
-seaborn as sns
-
 
 
 # THANK YOU !!!
