@@ -14,8 +14,11 @@ Automated Encoder, Credit Card
 
 # Confusion Matrix
 True positive = 101 values
+
 True negative = 99491 values
+
 False positive = 42 values
+
 False negative = 49 values 
 
 # RESULT
