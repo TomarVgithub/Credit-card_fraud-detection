@@ -12,6 +12,12 @@ clustering methods. The proposed NN fraud detection method works with 99.87% acc
 Unattended Reading, Unwanted Detection, Fraud Detection, 
 Automated Encoder, Credit Card
 
+# Tools & Technology 
+
+Jupyter Notebook in Anaconda3 
+
+Python
+
 # Confusion Matrix 
 Confusion matrix which shows fraudulent and non-fraudulent transactions.
 
