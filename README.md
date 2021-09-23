@@ -44,7 +44,7 @@ Length of fraudulent transactions = 492
 
 Length of non-fraudulent transactions = 284315
 
-Result with source code is attached in the above code.pdf file, you can download the pdf file using this link https://github.com/TomarVgithub/Credit-card_fraud-detection/blob/master/Code.pdf
+Result with source code is attached in the above Code.pdf file, you can download the pdf file using this link https://github.com/TomarVgithub/Credit-card_fraud-detection/blob/master/Code.pdf
 
 
 # THANK YOU !!!
