@@ -1,4 +1,6 @@
 # Credit-card_fraud-detection
+*Logistic Regression* is used in this model to get confusion matrix which shows fraudulent and non-fraudulent transactions. 
+
 # About
 
 Advances in communication technology and e-commerce have made the credit card a popular online payment method. Therefore, security in this system is highly expected to prevent fraud. Credit card transaction fraud 
