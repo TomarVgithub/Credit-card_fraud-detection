@@ -12,7 +12,8 @@ clustering methods. The proposed NN fraud detection method works with 99.87% acc
 Unattended Reading, Unwanted Detection, Fraud Detection, 
 Automated Encoder, Credit Card
 
-# Confusion Matrix
+# Confusion Matrix 
+Confusion matrix which shows fraudulent and non-fraudulent transactions.
 True positive = 101 values
 
 True negative = 99491 values
