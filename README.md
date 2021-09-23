@@ -11,3 +11,22 @@ clustering methods. The proposed NN fraud detection method works with 99.87% acc
 # Keywords :
 Unattended Reading, Unwanted Detection, Fraud Detection, 
 Automated Encoder, Credit Card
+
+# Confusion Matrix
+True positive = 101 values
+True negative = 99491 values
+False positive = 42 values
+False negative = 49 values 
+
+# RESULT
+Length of fraudulent transactions = 492
+Length of non-fraudulent transactions = 284315
+# NOTE : the above results are on the basis of specific given data set to the model.
+
+# Important libraries :
+numpy as np
+pandas as pd
+seaborn as sns
+
+
+
