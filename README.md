@@ -23,11 +23,11 @@ False positive = 42 values
 
 False negative = 49 values 
 
-# RESULT
+# Result
 Length of fraudulent transactions = 492
 
 Length of non-fraudulent transactions = 284315
-# NOTE :
+# Note :
 The result and accuracy comes in this project are on the basis of specific small data set given to the model. 
 
 # Important libraries 
