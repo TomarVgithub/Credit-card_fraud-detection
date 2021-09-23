@@ -23,7 +23,7 @@ False positive = 42 values
 
 False negative = 49 values 
 
-# Result
+# Outcomes 
 Length of fraudulent transactions = 492
 
 Length of non-fraudulent transactions = 284315
