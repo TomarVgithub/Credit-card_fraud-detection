@@ -8,7 +8,7 @@ transactions are increasing year by year. In this way, researchers also experime
 system to detect fraud in credit card details using an unregulated neural learning process (NN). The proposed method exceeds the existing Auto Encoder (AE), Local Outlier Factor (LOF), Isolate Forest (IF) and K-Means 
 clustering methods. The proposed NN fraud detection method works with 99.87% accuracy and the existing AE, IF, LOF and K Means methods provide 97℅, 98℅, 98℅ and 99.75℅ accuracy.
 
-# Keywords :
+# Keywords 
 Unattended Reading, Unwanted Detection, Fraud Detection, 
 Automated Encoder, Credit Card
 
@@ -19,13 +19,14 @@ False positive = 42 values
 False negative = 49 values 
 
 # RESULT
-Length of fraudulent transactions = 492
+Length of fraudulent transactions = 492,
 Length of non-fraudulent transactions = 284315
-# NOTE : the above results are on the basis of specific given data set to the model.
+# NOTE :
+The above results are on the basis of specific given data set to the model.
 
-# Important libraries :
-numpy as np
-pandas as pd
+# Important libraries 
+numpy as np,
+pandas as pd,
 seaborn as sns
 
 
