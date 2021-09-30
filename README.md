@@ -28,6 +28,9 @@ Jupyter Notebook in Anaconda3
 
 Python
 
+# Algorithm Used
+Logistic Regression 
+
 # Confusion Matrix 
 Confusion matrix which shows fraudulent and non-fraudulent transactions.
 
